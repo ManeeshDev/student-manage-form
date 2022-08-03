@@ -1,0 +1,43 @@
+D:\MP_ Works\@SLIIT\1st Year\2nd Semester\Information Systems & Data Modeling - IT1090  [2022JAN]\Labs\Lab-10\WindowsFormsAppLab10\WindowsFormsAppLab10\bin\Debug\WindowsFormsAppLab10.exe.config
+D:\MP_ Works\@SLIIT\1st Year\2nd Semester\Information Systems & Data Modeling - IT1090  [2022JAN]\Labs\Lab-10\WindowsFormsAppLab10\WindowsFormsAppLab10\bin\Debug\WindowsFormsAppLab10.exe
+D:\MP_ Works\@SLIIT\1st Year\2nd Semester\Information Systems & Data Modeling - IT1090  [2022JAN]\Labs\Lab-10\WindowsFormsAppLab10\WindowsFormsAppLab10\bin\Debug\WindowsFormsAppLab10.pdb
+D:\MP_ Works\@SLIIT\1st Year\2nd Semester\Information Systems & Data Modeling - IT1090  [2022JAN]\Labs\Lab-10\WindowsFormsAppLab10\WindowsFormsAppLab10\obj\Debug\WindowsFormsAppLab10.Form1.resources
+D:\MP_ Works\@SLIIT\1st Year\2nd Semester\Information Systems & Data Modeling - IT1090  [2022JAN]\Labs\Lab-10\WindowsFormsAppLab10\WindowsFormsAppLab10\obj\Debug\WindowsFormsAppLab10.Properties.Resources.resources
+D:\MP_ Works\@SLIIT\1st Year\2nd Semester\Information Systems & Data Modeling - IT1090  [2022JAN]\Labs\Lab-10\WindowsFormsAppLab10\WindowsFormsAppLab10\obj\Debug\WindowsFormsAppLab10.csproj.GenerateResource.Cache
+D:\MP_ Works\@SLIIT\1st Year\2nd Semester\Information Systems & Data Modeling - IT1090  [2022JAN]\Labs\Lab-10\WindowsFormsAppLab10\WindowsFormsAppLab10\obj\Debug\WindowsFormsAppLab10.exe
+D:\MP_ Works\@SLIIT\1st Year\2nd Semester\Information Systems & Data Modeling - IT1090  [2022JAN]\Labs\Lab-10\WindowsFormsAppLab10\WindowsFormsAppLab10\obj\Debug\WindowsFormsAppLab10.pdb
+D:\MP_ Works\@SLIIT\1st Year\2nd Semester\Information Systems & Data Modeling - IT1090  [2022JAN]\Labs\Lab-10\WindowsFormsAppLab10\WindowsFormsAppLab10\obj\Debug\WindowsFormsAppLab10.csproj.AssemblyReference.cache
+D:\MP_ Works\@SLIIT\1st Year\2nd Semester\Information Systems & Data Modeling - IT1090  [2022JAN]\Labs\Lab-10\WindowsFormsAppLab10\WindowsFormsAppLab10\obj\Debug\WindowsFormsAppLab10.csproj.CoreCompileInputs.cache
+D:\MP_ Works\My Dev Projects\Vb .net\Lab-10\WindowsFormsAppLab10\WindowsFormsAppLab10\bin\Debug\WindowsFormsAppLab10.exe.config
+D:\MP_ Works\My Dev Projects\Vb .net\Lab-10\WindowsFormsAppLab10\WindowsFormsAppLab10\bin\Debug\WindowsFormsAppLab10.exe
+D:\MP_ Works\My Dev Projects\Vb .net\Lab-10\WindowsFormsAppLab10\WindowsFormsAppLab10\bin\Debug\WindowsFormsAppLab10.pdb
+D:\MP_ Works\My Dev Projects\Vb .net\Lab-10\WindowsFormsAppLab10\WindowsFormsAppLab10\obj\Debug\WindowsFormsAppLab10.csproj.AssemblyReference.cache
+D:\MP_ Works\My Dev Projects\Vb .net\Lab-10\WindowsFormsAppLab10\WindowsFormsAppLab10\obj\Debug\WindowsFormsAppLab10.csproj.SuggestedBindingRedirects.cache
+D:\MP_ Works\My Dev Projects\Vb .net\Lab-10\WindowsFormsAppLab10\WindowsFormsAppLab10\obj\Debug\WindowsFormsAppLab10.Form1.resources
+D:\MP_ Works\My Dev Projects\Vb .net\Lab-10\WindowsFormsAppLab10\WindowsFormsAppLab10\obj\Debug\WindowsFormsAppLab10.Properties.Resources.resources
+D:\MP_ Works\My Dev Projects\Vb .net\Lab-10\WindowsFormsAppLab10\WindowsFormsAppLab10\obj\Debug\WindowsFormsAppLab10.csproj.GenerateResource.cache
+D:\MP_ Works\My Dev Projects\Vb .net\Lab-10\WindowsFormsAppLab10\WindowsFormsAppLab10\obj\Debug\WindowsFormsAppLab10.csproj.CoreCompileInputs.cache
+D:\MP_ Works\My Dev Projects\Vb .net\Lab-10\WindowsFormsAppLab10\WindowsFormsAppLab10\obj\Debug\WindowsFormsAppLab10.exe
+D:\MP_ Works\My Dev Projects\Vb .net\Lab-10\WindowsFormsAppLab10\WindowsFormsAppLab10\obj\Debug\WindowsFormsAppLab10.pdb
+D:\MP_ Works\My Dev Projects\Vb .net\WindowsFormsAppLab10\WindowsFormsAppLab10\bin\Debug\WindowsFormsAppLab10.exe.config
+D:\MP_ Works\My Dev Projects\Vb .net\WindowsFormsAppLab10\WindowsFormsAppLab10\bin\Debug\WindowsFormsAppLab10.exe
+D:\MP_ Works\My Dev Projects\Vb .net\WindowsFormsAppLab10\WindowsFormsAppLab10\bin\Debug\WindowsFormsAppLab10.pdb
+D:\MP_ Works\My Dev Projects\Vb .net\WindowsFormsAppLab10\WindowsFormsAppLab10\obj\Debug\WindowsFormsAppLab10.csproj.AssemblyReference.cache
+D:\MP_ Works\My Dev Projects\Vb .net\WindowsFormsAppLab10\WindowsFormsAppLab10\obj\Debug\WindowsFormsAppLab10.csproj.SuggestedBindingRedirects.cache
+D:\MP_ Works\My Dev Projects\Vb .net\WindowsFormsAppLab10\WindowsFormsAppLab10\obj\Debug\WindowsFormsAppLab10.Form1.resources
+D:\MP_ Works\My Dev Projects\Vb .net\WindowsFormsAppLab10\WindowsFormsAppLab10\obj\Debug\WindowsFormsAppLab10.Properties.Resources.resources
+D:\MP_ Works\My Dev Projects\Vb .net\WindowsFormsAppLab10\WindowsFormsAppLab10\obj\Debug\WindowsFormsAppLab10.csproj.GenerateResource.cache
+D:\MP_ Works\My Dev Projects\Vb .net\WindowsFormsAppLab10\WindowsFormsAppLab10\obj\Debug\WindowsFormsAppLab10.csproj.CoreCompileInputs.cache
+D:\MP_ Works\My Dev Projects\Vb .net\WindowsFormsAppLab10\WindowsFormsAppLab10\obj\Debug\WindowsFormsAppLab10.exe
+D:\MP_ Works\My Dev Projects\Vb .net\WindowsFormsAppLab10\WindowsFormsAppLab10\obj\Debug\WindowsFormsAppLab10.pdb
+D:\MP_ Works\My Dev Projects\student-manage-form\WindowsFormsAppLab10\bin\Debug\WindowsFormsAppLab10.exe.config
+D:\MP_ Works\My Dev Projects\student-manage-form\WindowsFormsAppLab10\bin\Debug\WindowsFormsAppLab10.exe
+D:\MP_ Works\My Dev Projects\student-manage-form\WindowsFormsAppLab10\bin\Debug\WindowsFormsAppLab10.pdb
+D:\MP_ Works\My Dev Projects\student-manage-form\WindowsFormsAppLab10\obj\Debug\WindowsFormsAppLab10.csproj.AssemblyReference.cache
+D:\MP_ Works\My Dev Projects\student-manage-form\WindowsFormsAppLab10\obj\Debug\WindowsFormsAppLab10.csproj.SuggestedBindingRedirects.cache
+D:\MP_ Works\My Dev Projects\student-manage-form\WindowsFormsAppLab10\obj\Debug\WindowsFormsAppLab10.Form1.resources
+D:\MP_ Works\My Dev Projects\student-manage-form\WindowsFormsAppLab10\obj\Debug\WindowsFormsAppLab10.Properties.Resources.resources
+D:\MP_ Works\My Dev Projects\student-manage-form\WindowsFormsAppLab10\obj\Debug\WindowsFormsAppLab10.csproj.GenerateResource.cache
+D:\MP_ Works\My Dev Projects\student-manage-form\WindowsFormsAppLab10\obj\Debug\WindowsFormsAppLab10.csproj.CoreCompileInputs.cache
+D:\MP_ Works\My Dev Projects\student-manage-form\WindowsFormsAppLab10\obj\Debug\WindowsFormsAppLab10.exe
+D:\MP_ Works\My Dev Projects\student-manage-form\WindowsFormsAppLab10\obj\Debug\WindowsFormsAppLab10.pdb
